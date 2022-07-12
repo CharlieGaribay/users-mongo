@@ -1,0 +1,19 @@
+
+### IDE's
+.idea/
+.vscode/
+.vim*
+ctags
+tags
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Environments
+*.env
+
+### Virtual env
+/develop
